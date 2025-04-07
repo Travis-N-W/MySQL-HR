@@ -44,7 +44,7 @@ Conducted end-to-end data analysis on a sample HR dataset using MySQL and Power 
 - Employee ages range from 20 to 57 years old.  
 - Employees were categorized into five age groups (18–24, 25–34, 35–44, 45–54, 55–64); the 25–34 and 35–44 groups represent the largest segments, while the 55–64 group is the smallest.  
 - A significant portion of the workforce is based at the headquarters, with fewer employees working remotely.  
-- The average tenure of terminated employees is approximately 7 years.  
+- The average tenure of terminated employees is approximately 8 years.  
 - Gender distribution is relatively balanced across departments, though males slightly outnumber females overall.  
 - The Marketing department exhibits the highest turnover rate, followed by the Training department. Departments such as Research & Development, Support, and Legal have the lowest turnover rates.  
 - The highest concentration of employees is located in the state of Ohio.  
