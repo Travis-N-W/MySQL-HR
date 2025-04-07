@@ -51,7 +51,7 @@ Conducted end-to-end data analysis on a sample HR dataset using MySQL and Power 
 - Net employee count has shown a positive trend, with an overall increase over recent years.  
 - Average tenure across departments is around 8 years, with Legal and Auditing showing the highest tenure, and Services, Sales, and Marketing reflecting the lowest.  
 
-### Data Limitations
+## Data Limitations
 
 - Records with negative age values (967 entries) were excluded from the analysis; only data for individuals aged 18 and above were considered.  
 - Termination dates that were unrealistically far in the future (1599 entries) were omitted; only termination dates up to the current date were included in the analysis.  
