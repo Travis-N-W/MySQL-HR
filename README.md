@@ -35,13 +35,13 @@ Conducted end-to-end data analysis on a sample HR dataset using MySQL and Power 
 ## HR-Dashboard
 ![Screenshot 2025-04-07 204242](https://github.com/user-attachments/assets/328f9be3-2fdc-4739-a033-c698450397bd)
 
-![Screenshot 2025-04-07 200735](https://github.com/user-attachments/assets/c9f6217d-ceb7-4bfe-8afa-2f40f8fbdb62)
+![Screenshot 2025-04-07 205913](https://github.com/user-attachments/assets/2b7d2cc8-384c-4967-a086-f942c17aa0b1)
 
 ## Summary of Findings
 
 - The workforce has a higher representation of male employees.  
 - The majority of employees identify as White, while Native Hawaiian and American Indian groups are the least represented.  
-- Employee ages range from 20 to 57 years old.  
+- Employee ages range from 22 to 59 years old.  
 - Employees were categorized into five age groups (18–24, 25–34, 35–44, 45–54, 55–64); the 25–34 and 35–44 groups represent the largest segments, while the 55–64 group is the smallest.  
 - A significant portion of the workforce is based at the headquarters, with fewer employees working remotely.  
 - The average tenure of terminated employees is approximately 8 years.  
