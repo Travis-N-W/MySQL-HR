@@ -46,7 +46,7 @@ Conducted end-to-end data analysis on a sample HR dataset using MySQL and Power 
 - A significant portion of the workforce is based at the headquarters, with fewer employees working remotely.  
 - The average tenure of terminated employees is approximately 8 years.  
 - Gender distribution is relatively balanced across departments, though males slightly outnumber females overall.  
-- The Marketing department exhibits the highest turnover rate, followed by the Training department. Departments such as Research & Development, Support, and Legal have the lowest turnover rates.  
+- The Auditing department exhibits the highest turnover rate, followed by the Legal department. Departments such as Marketing, Business Development, and Product Management have the lowest turnover rates.  
 - The highest concentration of employees is located in the state of Ohio.  
 - Net employee count has shown a positive trend, with an overall increase over recent years.  
 - Average tenure across departments is around 8 years, with Legal and Auditing showing the highest tenure, and Services, Sales, and Marketing reflecting the lowest.  
