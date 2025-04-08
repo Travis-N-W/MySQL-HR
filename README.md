@@ -1,5 +1,8 @@
 # HR Data Analysis Project – MySQL & Power BI
 
+## 📸 Project Screenshots
+Click [here](https://github.com/Travis-N-W/MySQL-HR/tree/main/screenshots) to view all screenshots.
+
 ## Brief Objective 
 
 Conducted end-to-end data analysis on a sample HR dataset using MySQL and Power BI. The project involved comprehensive data cleaning and preprocessing, including standardizing date formats, converting text fields to appropriate data types, and resolving data inconsistencies. Developed SQL queries based on a set of business-related questions to extract actionable insights. Designed and built an interactive Power BI dashboard to visualize key HR metrics such as employee distribution, tenure, attrition rates, and departmental performance, enabling data-driven decision-making.
