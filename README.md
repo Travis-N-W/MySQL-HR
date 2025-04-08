@@ -52,7 +52,7 @@ Conducted end-to-end data analysis on a sample HR dataset using MySQL and Power 
 - The Auditing department exhibits the highest turnover rate, followed by the Legal department. Departments such as Marketing, Business Development, and Product Management have the lowest turnover rates.  
 - The highest concentration of employees is located in the state of Ohio.  
 - Net employee count has shown a positive trend, with an overall increase over recent years.  
-- Average tenure across departments is around 8 years, with Legal and Auditing showing the highest tenure, and Services, Sales, and Marketing reflecting the lowest.  
+- The average tenure across departments is around 8 years, with Marketing and Sales showing the highest tenure, and Legal and Product Management reflecting the lowest.  
 
 ## Data Limitations
 
