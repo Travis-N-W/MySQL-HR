@@ -35,7 +35,7 @@ Conducted end-to-end data analysis on a sample HR dataset using MySQL and Power 
 - How has the company's employee count changed over time based on hire and term dates?  
 - What is the tenure distribution for each department?  
 
-## HR-Dashboard
+## HR Dashboard
 ![Screenshot 2025-04-07 204242](https://github.com/user-attachments/assets/328f9be3-2fdc-4739-a033-c698450397bd)
 
 ![Screenshot 2025-04-07 205913](https://github.com/user-attachments/assets/2b7d2cc8-384c-4967-a086-f942c17aa0b1)
